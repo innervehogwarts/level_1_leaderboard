@@ -3,7 +3,7 @@ var txt;
 var person = prompt("Please enter your username:", "Harry Potter");
 var check= false;
 var x;
-for (x=0;x<8;x++)
+for (x=0;x<5;x++)
 {
 
       if(json[x].name==person)
