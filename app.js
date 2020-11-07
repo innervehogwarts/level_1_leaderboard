@@ -1,6 +1,6 @@
 function myFunction(){
 var txt;
-var person = prompt("Please enter your username:", "Harry Potter");
+var person = prompt("Please enter your HackerRank username:", "Harry Potter");
 var check= false;
 var x;
 for (x=0;x<11;x++)
