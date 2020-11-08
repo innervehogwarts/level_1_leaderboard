@@ -35,7 +35,7 @@ var pass = prompt("Please enter your password:");
 {
 
     document.getElementById("result").innerHTML="Click here";
-    document.getElementById("result").href = "https://level-2-87f38.web.app/";
+    document.getElementById("result").href = "https://level3-8e8c7.web.app/";
 
     // a.href = "https://www.geeksforgeeks.org";
 
