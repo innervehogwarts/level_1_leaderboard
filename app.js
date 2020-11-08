@@ -6,7 +6,7 @@ var x;
 for (x=0;x<11;x++)
 {
 
-      if(json[x].hackerrank==person)
+      if(json[x].Username==person)
       check=true;
 
 }
@@ -15,7 +15,7 @@ var i;
     for (i=0;i<pw.length;i++)
 {
 
-      if(pw[i].Username==person)
+      if(pw[i].hackerrank==person)
       {
           break;
       }
