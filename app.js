@@ -6,7 +6,7 @@ var x;
 for (x=0;x<11;x++)
 {
 
-      if(json[x].Username==person)
+      if(json[x].name==person)
       check=true;
 
 }
