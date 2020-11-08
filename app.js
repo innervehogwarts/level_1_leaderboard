@@ -6,7 +6,7 @@ var x;
 for (x=0;x<11;x++)
 {
 
-      if(json[x].Hackerrank Username==person)
+      if(json[x].hackerrank==person)
       check=true;
 
 }
@@ -29,7 +29,7 @@ if(i==pw.length)
 else
 {
 var pass = prompt("Please enter your password:");
-  if(pw[i].Create Password__1==pass)
+  if(pw[i].password==pass)
 {if(check==true)
 
 {
