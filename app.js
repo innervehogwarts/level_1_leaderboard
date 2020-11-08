@@ -35,7 +35,7 @@ var pass = prompt("Please enter your password:");
 {
 
     document.getElementById("result").innerHTML="Click here";
-    document.getElementById("result").href = "https://innervehogwarts.github.io/level4/";
+    document.getElementById("result").href = "https://congopage-d2c75.web.app";
 
     // a.href = "https://www.geeksforgeeks.org";
 
